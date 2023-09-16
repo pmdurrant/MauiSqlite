@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/MauiSqliteClassLibrary/Migrations/20230915173704_Init2.cs
+/MauiSqliteClassLibrary/Migrations/20230915173704_Init2.Designer.cs
+/MauiSqliteClassLibrary/Migrations/20230915155424_Init.cs
+/MauiSqliteClassLibrary/Migrations/20230915155424_Init.Designer.cs
