@@ -24,7 +24,10 @@ eg
 
 dotnet ef migrations add Init --startup-project  .\MauiSqliteClassLibrary --project .\MauiSqliteClassLibrary 
 
-
+## SqlLiteStudio 
+https://sqlitestudio.pl/
 
 ## File Location
-C:\Users\<username>\AppData\Local\Packages\<PakageID>\LocalState
+C:\Users\<username>\AppData\Local\Packages\<PakageID>\LocalState\DBName.db3
+
+
