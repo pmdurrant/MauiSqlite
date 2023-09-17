@@ -18,7 +18,7 @@ dotnet ef migrations remove --startup-project  .\MauiSqliteClassLibrary --projec
 
 ## Add migration 
 
-dotnet ef migrations add <migration-name> --startup-project  .\MauiSqliteClassLibrary --project .\MauiSqliteClassLibrary 
+dotnet ef migrations add {migration-name} --startup-project  .\MauiSqliteClassLibrary --project .\MauiSqliteClassLibrary 
 
 eg
 
