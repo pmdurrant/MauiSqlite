@@ -25,3 +25,6 @@ eg
 dotnet ef migrations add Init --startup-project  .\MauiSqliteClassLibrary --project .\MauiSqliteClassLibrary 
 
 
+
+##File Location
+C:\Users\<username>\AppData\Local\Packages\<PakageID>\LocalState
